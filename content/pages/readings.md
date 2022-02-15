@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 3b2c781c-6fcb-a301-0100-9576899ad61b
 ---
@@ -88,7 +91,7 @@ Melton, H. Keith, and Wallace, Robert. Excerpts from _The Official CIA Manual of
 
 Allen, Jonathan. "[Deceptionists at War](http://cabinetmagazine.org/issues/26/allen.php)." _Cabinet Magazine_, 2007
 
-Louv, Jason. [John Dee was the 16th Century's Real-life Gandalf](http://boingboing.net/2015/02/19/john-dee-was-the-real-life-mer.html).
+Louv, Jason. [John Dee was the 16{{< sup "th" >}} Century's Real-life Gandalf](http://boingboing.net/2015/02/19/john-dee-was-the-real-life-mer.html).
 
 Harrington, Brooke. Chapters 1, 3, 4, 8 and 11 in _Deception: From Ancient Empires to Internet Dating_. Stanford University Press, 2009. ISBN: 9780804756495. \[Preview with [Google Books](http://books.google.com/books?id=RXB1koTL2N4C&pg=PA17=onepage)\]
 
