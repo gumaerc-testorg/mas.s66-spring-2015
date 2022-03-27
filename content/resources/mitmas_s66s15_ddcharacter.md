@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b5151499-c910-4ba2-5251-d2ec46eef82d
 resourcetype: Document
 title: 'Creating a Dungeons and Dragons Character '
 uid: add9e134-5eff-6d74-8ac3-843b7f14d50c
