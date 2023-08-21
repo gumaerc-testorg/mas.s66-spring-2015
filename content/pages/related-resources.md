@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains citations and links to supplemental reference materials.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -33,7 +34,7 @@ McGarryBowen London. [Making Future Magic: iPad Light Painting](https://vimeo.co
 Watts, Jemma. "[City Sigils](http://urbanmancy.tumblr.com/tagged/city-magick)." Using the motifs of road markings to create city magick sigils.
 
 **How to Magically Win at Roulette**  
-Thorp, Edward O. ["![This resource may not render correctly in a screen reader.](/images/inacessible.gif)The Invention of the first Wearable Computer." (PDF)](http://www.cs.virginia.edu/~evans/thorp.pdf).
+Thorp, Edward O. ["The Invention of the first Wearable Computer." (PDF)](http://www.cs.virginia.edu/~evans/thorp.pdf).
 
 **HenGenTou (Deformation Lamps): A Magical Lighting System to Produce Illusory Movements in Static Photos and Paintings**  
 Adding movement to static images through projection mapping. Wicked and magical research from [Hiroo Unoura](http://www.ntt.co.jp/news2015/1502e/150217a.html).
