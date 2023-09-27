@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides citations and links to the readings for each session
+  of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -179,7 +181,7 @@ Midterm Project Presentations
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Condition Echo Blueshift (PDF)](http://web.mit.edu/nelhage/Public/condition-echo-blueshift/case-nightmare-green/Handouts/rules-scenario.pdf) by the MIT Assassin's Guild LARP. 2007
+[Condition Echo Blueshift (PDF)](http://web.mit.edu/nelhage/Public/condition-echo-blueshift/case-nightmare-green/Handouts/rules-scenario.pdf) by the MIT Assassin's Guild LARP. 2007
 
 ### Watch
 
