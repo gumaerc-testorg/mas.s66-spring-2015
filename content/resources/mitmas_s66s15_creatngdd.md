@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Guidelines for an assignment to create a Dungeons and Dragons character
   and think about how the game depicts the story world using numerical systems. '
-file: /ol-ocw-studio-app/courses/mas-s66-indistinguishable-from-magic-as-interface-technology-and-tradition-spring-2015/d87f93de50d3896d72f502acabe6bbe6_MITMAS_S66S15_CreatngDD.pdf
+file: /courses/mas-s66-indistinguishable-from-magic-as-interface-technology-and-tradition-spring-2015/d87f93de50d3896d72f502acabe6bbe6_MITMAS_S66S15_CreatngDD.pdf
 file_size: 456158
 file_type: application/pdf
 learning_resource_types:
