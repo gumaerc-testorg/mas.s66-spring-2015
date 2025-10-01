@@ -46,7 +46,7 @@ Introduction / Overview
 Smoke and Mirrors: Stage Illusion as Storytelling Tool
 
 _Design Exercise_: Learn a Trick  
-_Guest_: [Marco Tempest](http://www.marcotempest.com/)
+_Guest_: {{% resource_link "cffec0d5-07bb-4a98-a661-c9594697ba00" "Marco Tempest" %}}
 
 
 {{< tdclose >}}
@@ -82,7 +82,7 @@ Perform the Trick from Session 2
 
 Magical Warfare: Camouflage & Deception & On Her Majesty's Occult Service; Dee, Crowley, Maskelyne, and Mulholland
 
-_Guests_: [Joi Ito](https://www.media.mit.edu/people/joi), [Kevin Slavin](https://www.media.mit.edu/people/slavin), [Adam Harvey](http://ahprojects.com/about/)
+_Guests_: {{% resource_link "1dd92e36-1e30-4a81-ba00-a6f162f984bf" "Joi Ito" %}}, {{% resource_link "c59583fd-3974-4955-bc7b-679cec555a9e" "Kevin Slavin" %}}, {{% resource_link "f5935649-a19f-43d8-8154-b7236c99b7bf" "Adam Harvey" %}}
 
 
 {{< tdclose >}}
@@ -137,7 +137,7 @@ _Guest_: Kevin Slavin
 
 Magic Items: Rings, Swords, and the Internet of Things
 
-_Guests_: [David Rose](http://cp.media.mit.edu/davidrose/) and [Matt Jones](http://magicalnihilism.com/)
+_Guests_: {{% resource_link "d3db0df8-b7b4-4d9d-a5a1-4b948760b6b2" "David Rose" %}} and {{% resource_link "2bc1254c-fe0b-45db-a370-f9315ea3786f" "Matt Jones" %}}
 
 
 {{< tdclose >}}
@@ -168,7 +168,7 @@ Midterm Project due
 Computational Demonology: Bots, Familiars, and Machine Learning
 
 _Design Exercise_: Build Your Own Markov Chain Bot  
-_Guest_: [Darius Kazemi](http://tinysubversions.com/)
+_Guest_: {{% resource_link "ad304a83-4204-4a73-b330-41ef18055ded" "Darius Kazemi" %}}
 
 
 {{< tdclose >}}
